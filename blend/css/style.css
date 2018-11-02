@@ -260,7 +260,9 @@ figure figcaption {
   position: relative;
   width: 80%;
   margin: 0 auto;
+  /*
   padding: 4em 0;
+  */
 }
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-narrow-content {
@@ -744,6 +746,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 .fh5co-heading {
   font-size: 45px;
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 .fh5co-heading.fh5co-light {
